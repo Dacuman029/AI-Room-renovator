@@ -1,0 +1,7 @@
+{
+  "name": "Pinterestify Room Renovator",
+  "description": "Transform your space with AI-powered interior design suggestions and visualiziations based on your favorite styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
